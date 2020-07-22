@@ -2,6 +2,7 @@
 // https://karma-runner.github.io/1.0/config/configuration-file.html
 
 
+
 // customLaunchers: {
 //   ChromeHeadless: {
 //     base: 'Chrome',
@@ -15,6 +16,7 @@
 // },
 // browsers: ['ChromeHeadless'],
 // singleRun: true
+
 
 
 module.exports = function (config) {
